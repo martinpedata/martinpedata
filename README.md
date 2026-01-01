@@ -6,9 +6,6 @@
 
 - 👯 I’m looking to collaborate on ...
 
-
-- 📫 How to reach me: ...
-
 - ⚡ Fun fact: ...
 <!--
 **martinpedata/martinpedata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
