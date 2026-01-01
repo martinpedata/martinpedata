@@ -11,10 +11,13 @@ My name is Martin, I'm an Engineering student in Electronics and ICT at KU Leuve
 #### One-line summaries 🔧🧩
 *1) sensor-gateway (C) -> December 2025*
 - Two processes in one execution: A sensor gateway server recording data from sensors into a csv file in real-time, and a logger process printing messages in a .log file
+
 *3) jitter-analysis-and-UI (Python) -> August 2025*
 - A tool that analyzes and visualizes the rising-edge jitter between two network slaves using oscilloscope-generated CSV data.
+
 *4) maker-link (Java) -> May 2025*
 - MakerLink is a DIY-focused social Android-compatible that lets users create, share, discover, and collaborate on hands-on projects while connecting with others through community and location-based features.
+
 *5) bike-bolt (Java) -> April 2025*
 - Bike-Bolt is an Android application designed to monitor and control a smart bike by tracking lighting, locking, and environmental states through dedicated interfaces.
 
