@@ -23,7 +23,7 @@ My name is Martin, I'm an Engineering student in Electronics and ICT at KU Leuve
   It includes graceful shutdown of processes, synchronization using mutexes, robust error handling, and thorough testing under several working conditions. No memory leakages, as per Valgrind.
 
 2) jitter-analysis-and-UI
-- Developed on VS Code, this project evaluates timing jitter as the error between a reference and measured slave’s response to a SYNC0 signal, with an expected bound of ±100 ns. An oscilloscope samples the SYNC0
+- Developed in VS Code, this project evaluates timing jitter as the error between a reference and measured slave’s response to a SYNC0 signal, with an expected bound of ±100 ns. An oscilloscope samples the SYNC0
   pin of each slave at 1 ns resolution and exports the results as CSV files containing sample indices, slave states, and timestamps. The software parses a folder of these CSV files, computes jitter metrics, and
   displays rising-edge visualizations alongside quantitative results. It focuses strictly on data extraction and analysis from CSV inputs, not on hardware operation or jitter mitigation strategies. Programming
   features and tools used: PyQt6 for the UI, Object-oriented programming, multi-threading, and extensive use of numpy and matplot libraries.
