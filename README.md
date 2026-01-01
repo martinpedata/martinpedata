@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Martin, and I'm an Engineering student in Electronics and ICT at KU Leuven. Interested in all things Cybersec and Data Science!
+My name is Martin, I'm an Engineering student in Electronics and ICT at KU Leuven. Interested in all things Cybersec and Data Science!
 
 - 🔭 I’m currently working on creating an interactive website with html, css, and javascript for a friend of mine.
 
