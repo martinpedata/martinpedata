@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Martin, I'm an Engineering student specializing in Electronics and ICT at KU Leuven. Interested in all things Cybersec and Data Science!
 
@@ -6,9 +6,9 @@ My name is Martin, I'm an Engineering student specializing in Electronics and IC
 
 - 📚 I’m currently learning how to suistainably synchronize multiple threads and processes in C.
 
-### About my repos:
+## About my repos:
 
-#### One-line summaries 🔧🧩
+### One-line summaries 🔧🧩
 *1) [sensor-gateway](https://github.com/martinpedata/sensor-gateway) (C) -> December 2025*
 - Two processes in one execution: A sensor gateway server recording data from sensors into a csv file in real-time, and a logger process printing messages in a .log file
 
@@ -21,7 +21,7 @@ My name is Martin, I'm an Engineering student specializing in Electronics and IC
 *5) [bike-bolt](https://github.com/martinpedata/bike-bolt) (Java) -> April 2025*
 - Bike-Bolt is an Android application designed to monitor and control a smart bike by tracking lighting, locking, and environmental states through dedicated interfaces.
 
-#### Five-line summaries 🧠🌐
+### Five-line summaries 🧠🌐
 
 *1) [sensor-gateway](https://github.com/martinpedata/sensor-gateway)*
 - Developed in CLion, VM: Ubuntu 24.04 LTS. The sensor gateway (server) handles concurrent data sent by multiple sensor nodes (clients) in real-time through a TCP connection. It stores the readings in a
